@@ -1,0 +1,22 @@
+[32mINFO    [0m conftest:conftest.py:31 Starting test: test_tc_02_for_providers_menu[2]
+[32mINFO    [0m conftest:conftest.py:32 Browser selected: edge
+[32mINFO    [0m individual_features:test_individual_features.py:49 Navigated to https://www.practo.com/
+[32mINFO    [0m individual_features:test_individual_features.py:57 [STEP 1 PASS] Clicked 'For Providers' dropdown menu
+[32mINFO    [0m individual_features:test_individual_features.py:64 [STEP 2 PASS] Selected 'Practo Prime' option from dropdown
+[32mINFO    [0m individual_features:test_individual_features.py:69 [STEP 2 ASSERTION PASS] Successfully navigated to Practo Prime page
+[32mINFO    [0m individual_features:test_individual_features.py:76 [STEP 3 PASS] Clicked 'Get free demo' button
+[32mINFO    [0m individual_features:test_individual_features.py:83 [STEP 3 ASSERTION PASS] Demo form appeared successfully
+[32mINFO    [0m individual_features:test_individual_features.py:89 Scrolled to free demo form section
+[32mINFO    [0m individual_features:test_individual_features.py:105 [STEP 4 PASS] Selected 'I own a clinic' category
+[32mINFO    [0m individual_features:test_individual_features.py:118 [STEP 4 ASSERTION PASS] Selected category: I own a clinic
+[32mINFO    [0m individual_features:test_individual_features.py:128 [STEP 5 PASS] Entered name: Abha Misra
+[32mINFO    [0m individual_features:test_individual_features.py:134 [STEP 5 ASSERTION PASS] Name verified: Abha Misra
+[32mINFO    [0m individual_features:test_individual_features.py:144 [STEP 6 PASS] Entered mobile number: 7007903888
+[32mINFO    [0m individual_features:test_individual_features.py:150 [STEP 6 ASSERTION PASS] Mobile number verified: 7007903888
+[32mINFO    [0m individual_features:test_individual_features.py:160 [STEP 7 PASS] Clicked city dropdown button
+[32mINFO    [0m individual_features:test_individual_features.py:167 [STEP 7 PASS] Selected city: Bangalore
+[32mINFO    [0m individual_features:test_individual_features.py:174 [STEP 7 ASSERTION PASS] City verified: Bangalore
+[32mINFO    [0m individual_features:test_individual_features.py:180 [STEP 8 PASS] Clicked 'Get Free Demo' submit button
+[32mINFO    [0m individual_features:test_individual_features.py:188 [STEP 8 ASSERTION PASS] Form submitted successfully with success message: 
+[32mINFO    [0m individual_features:test_individual_features.py:195 [PASS] TC_02 Row 2 - All subscriber details filled and form submitted successfully
+[32mINFO    [0m conftest:conftest.py:65 Tearing down test: test_tc_02_for_providers_menu[2]
